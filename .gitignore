@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+canal-client-api/canal-client-api.iml
+canal-client-service/canal-client-service.iml
+.idea
+
+
+es.iml
+logs/
+target/
